@@ -1,4 +1,7 @@
-﻿blinker==1.9.0
+setuptools>=42
+wheel
+gunicorn
+blinker==1.9.0
 click==8.2.1
 colorama==0.4.6
 Flask==3.1.1
@@ -6,9 +9,8 @@ itsdangerous==2.2.0
 Jinja2==3.1.6
 joblib==1.5.1
 MarkupSafe==3.0.2
-numpy==1.24.4
-scipy==1.10.1
-scikit-learn==1.2.2
+numpy==2.3.2
+scikit-learn==1.7.1
+scipy==1.16.0
 threadpoolctl==3.6.0
 Werkzeug==3.1.3
-gunicorn==22.0.0
