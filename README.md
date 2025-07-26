@@ -36,25 +36,6 @@ Key Features:
 
 ---
 
-## 📁 Project Structure
-predictive_pulse/
-│
-├── app.py # Main Flask application
-├── /templates/ # HTML files
-│ ├── home.html
-│ └── index.html
-├── /static/ # Static assets like images & CSS
-│ ├── bg.jpg
-│ └── style.css # Optional: custom styles
-├── /models/ # Trained model files
-│ ├── bp_model.joblib
-│ └── label_encoder.joblib
-├── requirements.txt # Python dependencies
-└── README.md # Project overview
-
-
----
-
 ## ⚙️ Setup Instructions
 
 1. **Clone the repository**
